@@ -1,7 +1,7 @@
 def print_star_grid(rows, cols):
     for row in range(rows):
         for col in range(cols):
-            print('#', end=' ')
+            print('@', end=' ')
         print()
 
 
